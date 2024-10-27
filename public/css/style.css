@@ -1,0 +1,62 @@
+/* 300 */
+@font-face {
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 300;
+    src: local("Rubik-Light"),
+        url("../fonts/Rubik-Light.ttf") format("truetype");
+}
+
+/* 300 */
+@font-face {
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 400;
+    src: local("Rubik-Regular"),
+        url("../fonts/Rubik-Regular.ttf") format("truetype");
+}
+
+/* 500 */
+@font-face {
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 500;
+    src: local("Rubik-Medium"),
+        url("../fonts/Rubik-Medium.ttf") format("truetype");
+}
+
+/* 600 */
+@font-face {
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 600;
+    src: local("Rubik-SemiBold"),
+        url("../fonts/Rubik-SemiBold.ttf") format("truetype");
+}
+
+/* 700 */
+@font-face {
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 700;
+    src: local("Rubik-Bold"),
+        url("../fonts/Rubik-Bold.ttf") format("truetype");
+}
+
+/* 800 */
+@font-face {
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 800;
+    src: local("Rubik-ExtraBold"),
+        url("../fonts/Rubik-ExtraBold.ttf") format("truetype");
+}
+
+/* 900 */
+@font-face {
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 900;
+    src: local("Rubik-Black"),
+        url("../fonts/Rubik-Black.ttf") format("truetype");
+}

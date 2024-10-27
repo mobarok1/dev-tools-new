@@ -1,0 +1,977 @@
+{
+    "result": "success",
+    "totalresults": 19,
+    "products": {
+        "product": [
+            {
+                "pid": 2,
+                "gid": "1",
+                "type": "hostingaccount",
+                "name": "Starter",
+                "slug": "premium",
+                "product_url": "http://clients.codhost.com/store/web-hosting/premium",
+                "description": "<ul>\r\n    \t<li>5 Websites</li>\r\n        <li>10GB NVMe SSD Storage</li>\r\n        <li>100GB Bandwidth</li>\r\n        <li>150 Subdomains</li>\r\n        <li>Litespeed Server</li>\r\n        <li>Secured by CloudLinux</li>\r\n        <li>Free SSL Certificate</li>\r\n        <li>24x7 Expert Support</li>\r\n    </ul>",
+                "module": "cpanel",
+                "paytype": "recurring",
+                "pricing": {
+                    "BDT": {
+                        "prefix": "৳",
+                        "suffix": "BDT",
+                        "msetupfee": "0.00",
+                        "qsetupfee": "0.00",
+                        "ssetupfee": "0.00",
+                        "asetupfee": "0.00",
+                        "bsetupfee": "0.00",
+                        "tsetupfee": "0.00",
+                        "monthly": "250.00",
+                        "quarterly": "-1.00",
+                        "semiannually": "-1.00",
+                        "annually": "2500.00",
+                        "biennially": "-1.00",
+                        "triennially": "-1.00"
+                    },
+                    "USD": {
+                        "prefix": "$",
+                        "suffix": " USD",
+                        "msetupfee": "0.00",
+                        "qsetupfee": "0.00",
+                        "ssetupfee": "0.00",
+                        "asetupfee": "0.00",
+                        "bsetupfee": "0.00",
+                        "tsetupfee": "0.00",
+                        "monthly": "2.50",
+                        "quarterly": "-1.00",
+                        "semiannually": "-1.00",
+                        "annually": "25.00",
+                        "biennially": "-1.00",
+                        "triennially": "-1.00"
+                    }
+                },
+                "customfields": {
+                    "customfield": []
+                },
+                "configoptions": {
+                    "configoption": []
+                }
+            },
+            {
+                "pid": 1,
+                "gid": "1",
+                "type": "hostingaccount",
+                "name": "Professional",
+                "slug": "professional",
+                "product_url": "http://clients.codhost.com/store/web-hosting/professional",
+                "description": "\t<ul>\r\n    \t<li>30 Websites</li>\r\n        <li>60GB NVMe SSD Storage</li>\r\n        <li>Unlimited Bandwidth</li>\r\n        <li>200 Subdomains</li>\r\n        <li>Litespeed Server</li>\r\n        <li>Secured by CloudLinux</li>\r\n        <li>Free SSL Certificate</li>\r\n        <li>24x7 Expert Support</li>\r\n    </ul>",
+                "module": "cpanel",
+                "paytype": "recurring",
+                "pricing": {
+                    "BDT": {
+                        "prefix": "৳",
+                        "suffix": "BDT",
+                        "msetupfee": "0.00",
+                        "qsetupfee": "0.00",
+                        "ssetupfee": "0.00",
+                        "asetupfee": "0.00",
+                        "bsetupfee": "0.00",
+                        "tsetupfee": "0.00",
+                        "monthly": "200.00",
+                        "quarterly": "-1.00",
+                        "semiannually": "-1.00",
+                        "annually": "2000.00",
+                        "biennially": "-1.00",
+                        "triennially": "-1.00"
+                    },
+                    "USD": {
+                        "prefix": "$",
+                        "suffix": " USD",
+                        "msetupfee": "0.00",
+                        "qsetupfee": "0.00",
+                        "ssetupfee": "0.00",
+                        "asetupfee": "0.00",
+                        "bsetupfee": "0.00",
+                        "tsetupfee": "0.00",
+                        "monthly": "2.00",
+                        "quarterly": "-1.00",
+                        "semiannually": "-1.00",
+                        "annually": "20.00",
+                        "biennially": "-1.00",
+                        "triennially": "-1.00"
+                    }
+                },
+                "customfields": {
+                    "customfield": []
+                },
+                "configoptions": {
+                    "configoption": []
+                }
+            },
+            {
+                "pid": 3,
+                "gid": "1",
+                "type": "hostingaccount",
+                "name": "Ultimate",
+                "slug": "ultimate",
+                "product_url": "http://clients.codhost.com/store/web-hosting/ultimate",
+                "description": "\t<ul>\r\n    \t<li>100 Websites</li>\r\n        <li>120GB NVMe SSD Storage</li>\r\n        <li>Unlimited Bandwidth</li>\r\n        <li>350 Subdomains</li>\r\n        <li>Litespeed Server</li>\r\n        <li>Secured by CloudLinux</li>\r\n        <li>Free SSL Certificate</li>\r\n        <li>24x7 Expert Support</li>\r\n    </ul>",
+                "module": "cpanel",
+                "paytype": "recurring",
+                "pricing": {
+                    "BDT": {
+                        "prefix": "৳",
+                        "suffix": "BDT",
+                        "msetupfee": "0.00",
+                        "qsetupfee": "0.00",
+                        "ssetupfee": "0.00",
+                        "asetupfee": "0.00",
+                        "bsetupfee": "0.00",
+                        "tsetupfee": "0.00",
+                        "monthly": "700.00",
+                        "quarterly": "-1.00",
+                        "semiannually": "-1.00",
+                        "annually": "7000.00",
+                        "biennially": "-1.00",
+                        "triennially": "-1.00"
+                    },
+                    "USD": {
+                        "prefix": "$",
+                        "suffix": " USD",
+                        "msetupfee": "0.00",
+                        "qsetupfee": "0.00",
+                        "ssetupfee": "0.00",
+                        "asetupfee": "0.00",
+                        "bsetupfee": "0.00",
+                        "tsetupfee": "0.00",
+                        "monthly": "7.50",
+                        "quarterly": "-1.00",
+                        "semiannually": "-1.00",
+                        "annually": "75.00",
+                        "biennially": "-1.00",
+                        "triennially": "-1.00"
+                    }
+                },
+                "customfields": {
+                    "customfield": []
+                },
+                "configoptions": {
+                    "configoption": []
+                }
+            },
+            {
+                "pid": 4,
+                "gid": "2",
+                "type": "hostingaccount",
+                "name": "Cloud Lite",
+                "slug": "cloud-lite",
+                "product_url": "http://clients.codhost.com/store/cloud-hosting/cloud-lite",
+                "description": "mlfnf\r\nfNFo\r\nfjnokfn\r\ndfjoifno",
+                "module": "cpanel",
+                "paytype": "recurring",
+                "pricing": {
+                    "BDT": {
+                        "prefix": "৳",
+                        "suffix": "BDT",
+                        "msetupfee": "0.00",
+                        "qsetupfee": "0.00",
+                        "ssetupfee": "0.00",
+                        "asetupfee": "0.00",
+                        "bsetupfee": "0.00",
+                        "tsetupfee": "0.00",
+                        "monthly": "300.00",
+                        "quarterly": "-1.00",
+                        "semiannually": "-1.00",
+                        "annually": "2500.00",
+                        "biennially": "-1.00",
+                        "triennially": "-1.00"
+                    },
+                    "USD": {
+                        "prefix": "$",
+                        "suffix": " USD",
+                        "msetupfee": "0.00",
+                        "qsetupfee": "0.00",
+                        "ssetupfee": "0.00",
+                        "asetupfee": "0.00",
+                        "bsetupfee": "0.00",
+                        "tsetupfee": "0.00",
+                        "monthly": "3.00",
+                        "quarterly": "-1.00",
+                        "semiannually": "-1.00",
+                        "annually": "25.00",
+                        "biennially": "-1.00",
+                        "triennially": "-1.00"
+                    }
+                },
+                "customfields": {
+                    "customfield": []
+                },
+                "configoptions": {
+                    "configoption": []
+                }
+            },
+            {
+                "pid": 5,
+                "gid": "2",
+                "type": "hostingaccount",
+                "name": "Cloud Pro",
+                "slug": "cloud-pro",
+                "product_url": "http://clients.codhost.com/store/cloud-hosting/cloud-pro",
+                "description": "",
+                "module": "cpanel",
+                "paytype": "recurring",
+                "pricing": {
+                    "BDT": {
+                        "prefix": "৳",
+                        "suffix": "BDT",
+                        "msetupfee": "0.00",
+                        "qsetupfee": "0.00",
+                        "ssetupfee": "0.00",
+                        "asetupfee": "0.00",
+                        "bsetupfee": "0.00",
+                        "tsetupfee": "0.00",
+                        "monthly": "500.00",
+                        "quarterly": "-1.00",
+                        "semiannually": "-1.00",
+                        "annually": "4000.00",
+                        "biennially": "-1.00",
+                        "triennially": "-1.00"
+                    },
+                    "USD": {
+                        "prefix": "$",
+                        "suffix": " USD",
+                        "msetupfee": "0.00",
+                        "qsetupfee": "0.00",
+                        "ssetupfee": "0.00",
+                        "asetupfee": "0.00",
+                        "bsetupfee": "0.00",
+                        "tsetupfee": "0.00",
+                        "monthly": "5.00",
+                        "quarterly": "-1.00",
+                        "semiannually": "-1.00",
+                        "annually": "40.00",
+                        "biennially": "-1.00",
+                        "triennially": "-1.00"
+                    }
+                },
+                "customfields": {
+                    "customfield": []
+                },
+                "configoptions": {
+                    "configoption": []
+                }
+            },
+            {
+                "pid": 6,
+                "gid": "2",
+                "type": "hostingaccount",
+                "name": "Cloud Ultra",
+                "slug": "cloud-ultra",
+                "product_url": "http://clients.codhost.com/store/cloud-hosting/cloud-ultra",
+                "description": "",
+                "module": "cpanel",
+                "paytype": "recurring",
+                "pricing": {
+                    "BDT": {
+                        "prefix": "৳",
+                        "suffix": "BDT",
+                        "msetupfee": "0.00",
+                        "qsetupfee": "0.00",
+                        "ssetupfee": "0.00",
+                        "asetupfee": "0.00",
+                        "bsetupfee": "0.00",
+                        "tsetupfee": "0.00",
+                        "monthly": "800.00",
+                        "quarterly": "-1.00",
+                        "semiannually": "-1.00",
+                        "annually": "6000.00",
+                        "biennially": "-1.00",
+                        "triennially": "-1.00"
+                    },
+                    "USD": {
+                        "prefix": "$",
+                        "suffix": " USD",
+                        "msetupfee": "0.00",
+                        "qsetupfee": "0.00",
+                        "ssetupfee": "0.00",
+                        "asetupfee": "0.00",
+                        "bsetupfee": "0.00",
+                        "tsetupfee": "0.00",
+                        "monthly": "8.00",
+                        "quarterly": "-1.00",
+                        "semiannually": "-1.00",
+                        "annually": "60.00",
+                        "biennially": "-1.00",
+                        "triennially": "-1.00"
+                    }
+                },
+                "customfields": {
+                    "customfield": []
+                },
+                "configoptions": {
+                    "configoption": []
+                }
+            },
+            {
+                "pid": 7,
+                "gid": "4",
+                "type": "hostingaccount",
+                "name": "BDIX Starter",
+                "slug": "bdix-starter",
+                "product_url": "http://clients.codhost.com/store/bdix-hosting/bdix-starter",
+                "description": "",
+                "module": "cpanel",
+                "paytype": "recurring",
+                "pricing": {
+                    "BDT": {
+                        "prefix": "৳",
+                        "suffix": "BDT",
+                        "msetupfee": "0.00",
+                        "qsetupfee": "0.00",
+                        "ssetupfee": "0.00",
+                        "asetupfee": "0.00",
+                        "bsetupfee": "0.00",
+                        "tsetupfee": "0.00",
+                        "monthly": "800.00",
+                        "quarterly": "-1.00",
+                        "semiannually": "-1.00",
+                        "annually": "6000.00",
+                        "biennially": "-1.00",
+                        "triennially": "-1.00"
+                    },
+                    "USD": {
+                        "prefix": "$",
+                        "suffix": " USD",
+                        "msetupfee": "0.00",
+                        "qsetupfee": "0.00",
+                        "ssetupfee": "0.00",
+                        "asetupfee": "0.00",
+                        "bsetupfee": "0.00",
+                        "tsetupfee": "0.00",
+                        "monthly": "8.00",
+                        "quarterly": "-1.00",
+                        "semiannually": "-1.00",
+                        "annually": "60.00",
+                        "biennially": "-1.00",
+                        "triennially": "-1.00"
+                    }
+                },
+                "customfields": {
+                    "customfield": []
+                },
+                "configoptions": {
+                    "configoption": []
+                }
+            },
+            {
+                "pid": 8,
+                "gid": "4",
+                "type": "hostingaccount",
+                "name": "BDIX Plus",
+                "slug": "bdix-plus",
+                "product_url": "http://clients.codhost.com/store/bdix-hosting/bdix-plus",
+                "description": "",
+                "module": "cpanel",
+                "paytype": "recurring",
+                "pricing": {
+                    "BDT": {
+                        "prefix": "৳",
+                        "suffix": "BDT",
+                        "msetupfee": "0.00",
+                        "qsetupfee": "0.00",
+                        "ssetupfee": "0.00",
+                        "asetupfee": "0.00",
+                        "bsetupfee": "0.00",
+                        "tsetupfee": "0.00",
+                        "monthly": "900.00",
+                        "quarterly": "-1.00",
+                        "semiannually": "-1.00",
+                        "annually": "9000.00",
+                        "biennially": "-1.00",
+                        "triennially": "-1.00"
+                    },
+                    "USD": {
+                        "prefix": "$",
+                        "suffix": " USD",
+                        "msetupfee": "0.00",
+                        "qsetupfee": "0.00",
+                        "ssetupfee": "0.00",
+                        "asetupfee": "0.00",
+                        "bsetupfee": "0.00",
+                        "tsetupfee": "0.00",
+                        "monthly": "9.00",
+                        "quarterly": "-1.00",
+                        "semiannually": "-1.00",
+                        "annually": "90.00",
+                        "biennially": "-1.00",
+                        "triennially": "-1.00"
+                    }
+                },
+                "customfields": {
+                    "customfield": []
+                },
+                "configoptions": {
+                    "configoption": []
+                }
+            },
+            {
+                "pid": 9,
+                "gid": "4",
+                "type": "hostingaccount",
+                "name": "BDIX Premium",
+                "slug": "bdix-premium",
+                "product_url": "http://clients.codhost.com/store/bdix-hosting/bdix-premium",
+                "description": "",
+                "module": "cpanel",
+                "paytype": "recurring",
+                "pricing": {
+                    "BDT": {
+                        "prefix": "৳",
+                        "suffix": "BDT",
+                        "msetupfee": "0.00",
+                        "qsetupfee": "0.00",
+                        "ssetupfee": "0.00",
+                        "asetupfee": "0.00",
+                        "bsetupfee": "0.00",
+                        "tsetupfee": "0.00",
+                        "monthly": "1200.00",
+                        "quarterly": "-1.00",
+                        "semiannually": "-1.00",
+                        "annually": "12000.00",
+                        "biennially": "-1.00",
+                        "triennially": "-1.00"
+                    },
+                    "USD": {
+                        "prefix": "$",
+                        "suffix": " USD",
+                        "msetupfee": "0.00",
+                        "qsetupfee": "0.00",
+                        "ssetupfee": "0.00",
+                        "asetupfee": "0.00",
+                        "bsetupfee": "0.00",
+                        "tsetupfee": "0.00",
+                        "monthly": "12.00",
+                        "quarterly": "-1.00",
+                        "semiannually": "-1.00",
+                        "annually": "120.00",
+                        "biennially": "-1.00",
+                        "triennially": "-1.00"
+                    }
+                },
+                "customfields": {
+                    "customfield": []
+                },
+                "configoptions": {
+                    "configoption": []
+                }
+            },
+            {
+                "pid": 10,
+                "gid": "3",
+                "type": "server",
+                "name": "VPS Edge",
+                "slug": "vps-edge",
+                "product_url": "http://clients.codhost.com/store/vps-hosting/vps-edge",
+                "description": "",
+                "module": "cpanel",
+                "paytype": "recurring",
+                "pricing": {
+                    "BDT": {
+                        "prefix": "৳",
+                        "suffix": "BDT",
+                        "msetupfee": "0.00",
+                        "qsetupfee": "0.00",
+                        "ssetupfee": "0.00",
+                        "asetupfee": "0.00",
+                        "bsetupfee": "0.00",
+                        "tsetupfee": "0.00",
+                        "monthly": "500.00",
+                        "quarterly": "-1.00",
+                        "semiannually": "-1.00",
+                        "annually": "-1.00",
+                        "biennially": "-1.00",
+                        "triennially": "-1.00"
+                    },
+                    "USD": {
+                        "prefix": "$",
+                        "suffix": " USD",
+                        "msetupfee": "0.00",
+                        "qsetupfee": "0.00",
+                        "ssetupfee": "0.00",
+                        "asetupfee": "0.00",
+                        "bsetupfee": "0.00",
+                        "tsetupfee": "0.00",
+                        "monthly": "5.00",
+                        "quarterly": "-1.00",
+                        "semiannually": "-1.00",
+                        "annually": "-1.00",
+                        "biennially": "-1.00",
+                        "triennially": "-1.00"
+                    }
+                },
+                "customfields": {
+                    "customfield": []
+                },
+                "configoptions": {
+                    "configoption": []
+                }
+            },
+            {
+                "pid": 13,
+                "gid": "3",
+                "type": "server",
+                "name": "VPS Power",
+                "slug": "vps-power",
+                "product_url": "http://clients.codhost.com/store/vps-hosting/vps-power",
+                "description": "",
+                "module": "cpanel",
+                "paytype": "recurring",
+                "pricing": {
+                    "BDT": {
+                        "prefix": "৳",
+                        "suffix": "BDT",
+                        "msetupfee": "0.00",
+                        "qsetupfee": "0.00",
+                        "ssetupfee": "0.00",
+                        "asetupfee": "0.00",
+                        "bsetupfee": "0.00",
+                        "tsetupfee": "0.00",
+                        "monthly": "700.00",
+                        "quarterly": "-1.00",
+                        "semiannually": "-1.00",
+                        "annually": "-1.00",
+                        "biennially": "-1.00",
+                        "triennially": "-1.00"
+                    },
+                    "USD": {
+                        "prefix": "$",
+                        "suffix": " USD",
+                        "msetupfee": "0.00",
+                        "qsetupfee": "0.00",
+                        "ssetupfee": "0.00",
+                        "asetupfee": "0.00",
+                        "bsetupfee": "0.00",
+                        "tsetupfee": "0.00",
+                        "monthly": "7.00",
+                        "quarterly": "-1.00",
+                        "semiannually": "-1.00",
+                        "annually": "-1.00",
+                        "biennially": "-1.00",
+                        "triennially": "-1.00"
+                    }
+                },
+                "customfields": {
+                    "customfield": []
+                },
+                "configoptions": {
+                    "configoption": []
+                }
+            },
+            {
+                "pid": 14,
+                "gid": "3",
+                "type": "server",
+                "name": "VPS Elite",
+                "slug": "vps-elite",
+                "product_url": "http://clients.codhost.com/store/vps-hosting/vps-elite",
+                "description": "",
+                "module": "cpanel",
+                "paytype": "recurring",
+                "pricing": {
+                    "BDT": {
+                        "prefix": "৳",
+                        "suffix": "BDT",
+                        "msetupfee": "0.00",
+                        "qsetupfee": "0.00",
+                        "ssetupfee": "0.00",
+                        "asetupfee": "0.00",
+                        "bsetupfee": "0.00",
+                        "tsetupfee": "0.00",
+                        "monthly": "1000.00",
+                        "quarterly": "-1.00",
+                        "semiannually": "-1.00",
+                        "annually": "-1.00",
+                        "biennially": "-1.00",
+                        "triennially": "-1.00"
+                    },
+                    "USD": {
+                        "prefix": "$",
+                        "suffix": " USD",
+                        "msetupfee": "0.00",
+                        "qsetupfee": "0.00",
+                        "ssetupfee": "0.00",
+                        "asetupfee": "0.00",
+                        "bsetupfee": "0.00",
+                        "tsetupfee": "0.00",
+                        "monthly": "10.00",
+                        "quarterly": "-1.00",
+                        "semiannually": "-1.00",
+                        "annually": "-1.00",
+                        "biennially": "-1.00",
+                        "triennially": "-1.00"
+                    }
+                },
+                "customfields": {
+                    "customfield": []
+                },
+                "configoptions": {
+                    "configoption": []
+                }
+            },
+            {
+                "pid": 15,
+                "gid": "3",
+                "type": "server",
+                "name": "VPS Max",
+                "slug": "vps-max",
+                "product_url": "http://clients.codhost.com/store/vps-hosting/vps-max",
+                "description": "",
+                "module": "cpanel",
+                "paytype": "recurring",
+                "pricing": {
+                    "BDT": {
+                        "prefix": "৳",
+                        "suffix": "BDT",
+                        "msetupfee": "0.00",
+                        "qsetupfee": "0.00",
+                        "ssetupfee": "0.00",
+                        "asetupfee": "0.00",
+                        "bsetupfee": "0.00",
+                        "tsetupfee": "0.00",
+                        "monthly": "2000.00",
+                        "quarterly": "-1.00",
+                        "semiannually": "-1.00",
+                        "annually": "-1.00",
+                        "biennially": "-1.00",
+                        "triennially": "-1.00"
+                    },
+                    "USD": {
+                        "prefix": "$",
+                        "suffix": " USD",
+                        "msetupfee": "0.00",
+                        "qsetupfee": "0.00",
+                        "ssetupfee": "0.00",
+                        "asetupfee": "0.00",
+                        "bsetupfee": "0.00",
+                        "tsetupfee": "0.00",
+                        "monthly": "20.00",
+                        "quarterly": "-1.00",
+                        "semiannually": "-1.00",
+                        "annually": "-1.00",
+                        "biennially": "-1.00",
+                        "triennially": "-1.00"
+                    }
+                },
+                "customfields": {
+                    "customfield": []
+                },
+                "configoptions": {
+                    "configoption": []
+                }
+            },
+            {
+                "pid": 16,
+                "gid": "5",
+                "type": "reselleraccount",
+                "name": "Starter",
+                "slug": "starter",
+                "product_url": "http://clients.codhost.com/store/reseller-hosting/starter",
+                "description": "",
+                "module": "cpanel",
+                "paytype": "recurring",
+                "pricing": {
+                    "BDT": {
+                        "prefix": "৳",
+                        "suffix": "BDT",
+                        "msetupfee": "0.00",
+                        "qsetupfee": "0.00",
+                        "ssetupfee": "0.00",
+                        "asetupfee": "0.00",
+                        "bsetupfee": "0.00",
+                        "tsetupfee": "0.00",
+                        "monthly": "4000.00",
+                        "quarterly": "-1.00",
+                        "semiannually": "-1.00",
+                        "annually": "40000.00",
+                        "biennially": "-1.00",
+                        "triennially": "-1.00"
+                    },
+                    "USD": {
+                        "prefix": "$",
+                        "suffix": " USD",
+                        "msetupfee": "0.00",
+                        "qsetupfee": "0.00",
+                        "ssetupfee": "0.00",
+                        "asetupfee": "0.00",
+                        "bsetupfee": "0.00",
+                        "tsetupfee": "0.00",
+                        "monthly": "30.00",
+                        "quarterly": "-1.00",
+                        "semiannually": "-1.00",
+                        "annually": "300.00",
+                        "biennially": "-1.00",
+                        "triennially": "-1.00"
+                    }
+                },
+                "customfields": {
+                    "customfield": []
+                },
+                "configoptions": {
+                    "configoption": []
+                }
+            },
+            {
+                "pid": 17,
+                "gid": "5",
+                "type": "reselleraccount",
+                "name": "Pro",
+                "slug": "pro",
+                "product_url": "http://clients.codhost.com/store/reseller-hosting/pro",
+                "description": "",
+                "module": "cpanel",
+                "paytype": "recurring",
+                "pricing": {
+                    "BDT": {
+                        "prefix": "৳",
+                        "suffix": "BDT",
+                        "msetupfee": "0.00",
+                        "qsetupfee": "0.00",
+                        "ssetupfee": "0.00",
+                        "asetupfee": "0.00",
+                        "bsetupfee": "0.00",
+                        "tsetupfee": "0.00",
+                        "monthly": "4000.00",
+                        "quarterly": "-1.00",
+                        "semiannually": "-1.00",
+                        "annually": "40000.00",
+                        "biennially": "-1.00",
+                        "triennially": "-1.00"
+                    },
+                    "USD": {
+                        "prefix": "$",
+                        "suffix": " USD",
+                        "msetupfee": "0.00",
+                        "qsetupfee": "0.00",
+                        "ssetupfee": "0.00",
+                        "asetupfee": "0.00",
+                        "bsetupfee": "0.00",
+                        "tsetupfee": "0.00",
+                        "monthly": "40.00",
+                        "quarterly": "-1.00",
+                        "semiannually": "-1.00",
+                        "annually": "400.00",
+                        "biennially": "-1.00",
+                        "triennially": "-1.00"
+                    }
+                },
+                "customfields": {
+                    "customfield": []
+                },
+                "configoptions": {
+                    "configoption": []
+                }
+            },
+            {
+                "pid": 18,
+                "gid": "5",
+                "type": "reselleraccount",
+                "name": "Ultimate",
+                "slug": "ultimate",
+                "product_url": "http://clients.codhost.com/store/reseller-hosting/ultimate",
+                "description": "",
+                "module": "cpanel",
+                "paytype": "recurring",
+                "pricing": {
+                    "BDT": {
+                        "prefix": "৳",
+                        "suffix": "BDT",
+                        "msetupfee": "0.00",
+                        "qsetupfee": "0.00",
+                        "ssetupfee": "0.00",
+                        "asetupfee": "0.00",
+                        "bsetupfee": "0.00",
+                        "tsetupfee": "0.00",
+                        "monthly": "5000.00",
+                        "quarterly": "-1.00",
+                        "semiannually": "-1.00",
+                        "annually": "50000.00",
+                        "biennially": "-1.00",
+                        "triennially": "-1.00"
+                    },
+                    "USD": {
+                        "prefix": "$",
+                        "suffix": " USD",
+                        "msetupfee": "0.00",
+                        "qsetupfee": "0.00",
+                        "ssetupfee": "0.00",
+                        "asetupfee": "0.00",
+                        "bsetupfee": "0.00",
+                        "tsetupfee": "0.00",
+                        "monthly": "50.00",
+                        "quarterly": "-1.00",
+                        "semiannually": "-1.00",
+                        "annually": "500.00",
+                        "biennially": "-1.00",
+                        "triennially": "-1.00"
+                    }
+                },
+                "customfields": {
+                    "customfield": []
+                },
+                "configoptions": {
+                    "configoption": []
+                }
+            },
+            {
+                "pid": 19,
+                "gid": "6",
+                "type": "hostingaccount",
+                "name": "Starter",
+                "slug": "starter",
+                "product_url": "http://clients.codhost.com/store/wordpress-hosting/starter",
+                "description": "",
+                "module": "cpanel",
+                "paytype": "recurring",
+                "pricing": {
+                    "BDT": {
+                        "prefix": "৳",
+                        "suffix": "BDT",
+                        "msetupfee": "0.00",
+                        "qsetupfee": "0.00",
+                        "ssetupfee": "0.00",
+                        "asetupfee": "0.00",
+                        "bsetupfee": "0.00",
+                        "tsetupfee": "0.00",
+                        "monthly": "150.00",
+                        "quarterly": "-1.00",
+                        "semiannually": "-1.00",
+                        "annually": "1500.00",
+                        "biennially": "-1.00",
+                        "triennially": "-1.00"
+                    },
+                    "USD": {
+                        "prefix": "$",
+                        "suffix": " USD",
+                        "msetupfee": "0.00",
+                        "qsetupfee": "0.00",
+                        "ssetupfee": "0.00",
+                        "asetupfee": "0.00",
+                        "bsetupfee": "0.00",
+                        "tsetupfee": "0.00",
+                        "monthly": "1.50",
+                        "quarterly": "-1.00",
+                        "semiannually": "-1.00",
+                        "annually": "15.00",
+                        "biennially": "-1.00",
+                        "triennially": "-1.00"
+                    }
+                },
+                "customfields": {
+                    "customfield": []
+                },
+                "configoptions": {
+                    "configoption": []
+                }
+            },
+            {
+                "pid": 20,
+                "gid": "6",
+                "type": "hostingaccount",
+                "name": "Plus",
+                "slug": "plus",
+                "product_url": "http://clients.codhost.com/store/wordpress-hosting/plus",
+                "description": "",
+                "module": "cpanel",
+                "paytype": "recurring",
+                "pricing": {
+                    "BDT": {
+                        "prefix": "৳",
+                        "suffix": "BDT",
+                        "msetupfee": "0.00",
+                        "qsetupfee": "0.00",
+                        "ssetupfee": "0.00",
+                        "asetupfee": "0.00",
+                        "bsetupfee": "0.00",
+                        "tsetupfee": "0.00",
+                        "monthly": "300.00",
+                        "quarterly": "-1.00",
+                        "semiannually": "-1.00",
+                        "annually": "3000.00",
+                        "biennially": "-1.00",
+                        "triennially": "-1.00"
+                    },
+                    "USD": {
+                        "prefix": "$",
+                        "suffix": " USD",
+                        "msetupfee": "0.00",
+                        "qsetupfee": "0.00",
+                        "ssetupfee": "0.00",
+                        "asetupfee": "0.00",
+                        "bsetupfee": "0.00",
+                        "tsetupfee": "0.00",
+                        "monthly": "3.00",
+                        "quarterly": "-1.00",
+                        "semiannually": "-1.00",
+                        "annually": "30.00",
+                        "biennially": "-1.00",
+                        "triennially": "-1.00"
+                    }
+                },
+                "customfields": {
+                    "customfield": []
+                },
+                "configoptions": {
+                    "configoption": []
+                }
+            },
+            {
+                "pid": 21,
+                "gid": "6",
+                "type": "hostingaccount",
+                "name": "Premium",
+                "slug": "premium",
+                "product_url": "http://clients.codhost.com/store/wordpress-hosting/premium",
+                "description": "",
+                "module": "cpanel",
+                "paytype": "recurring",
+                "pricing": {
+                    "BDT": {
+                        "prefix": "৳",
+                        "suffix": "BDT",
+                        "msetupfee": "0.00",
+                        "qsetupfee": "0.00",
+                        "ssetupfee": "0.00",
+                        "asetupfee": "0.00",
+                        "bsetupfee": "0.00",
+                        "tsetupfee": "0.00",
+                        "monthly": "400.00",
+                        "quarterly": "-1.00",
+                        "semiannually": "-1.00",
+                        "annually": "4000.00",
+                        "biennially": "-1.00",
+                        "triennially": "-1.00"
+                    },
+                    "USD": {
+                        "prefix": "$",
+                        "suffix": " USD",
+                        "msetupfee": "0.00",
+                        "qsetupfee": "0.00",
+                        "ssetupfee": "0.00",
+                        "asetupfee": "0.00",
+                        "bsetupfee": "0.00",
+                        "tsetupfee": "0.00",
+                        "monthly": "4.00",
+                        "quarterly": "-1.00",
+                        "semiannually": "-1.00",
+                        "annually": "40.00",
+                        "biennially": "-1.00",
+                        "triennially": "-1.00"
+                    }
+                },
+                "customfields": {
+                    "customfield": []
+                },
+                "configoptions": {
+                    "configoption": []
+                }
+            }
+        ]
+    }
+}
