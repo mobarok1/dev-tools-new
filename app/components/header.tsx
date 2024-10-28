@@ -27,6 +27,8 @@ const TopHeader = ({pageName, subName}:{pageName:string,subName?:string}) => {
         content="Dev Tools, Encoder, Decoder, Small Dev Tools"
     />
     <meta name="author" content="CodHost" />
+
+    <meta name="google-adsense-account" content="ca-pub-2943492028472623"/>
     {/* Favicons */}
     <link href={`${HOME_PAGE_URL()}/images/favicon.png`} rel="icon" />
     <link href={`${HOME_PAGE_URL()}/images/apple-touch-icon.png`} rel="apple-touch-icon" />
